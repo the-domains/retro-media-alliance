@@ -1,4 +1,20 @@
-analytics: {}
+name: Retro Media Alliance
+favicon: null
+layout_spectrum: 0.418918
+typography_spectrum: 0.35304
+title: RMA - Movie Reviews and Light Conversation
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#010101'
@@ -8,11 +24,9 @@ color:
     - '#202020'
   brandStrength: 0.2197409665321104
   lightness: 0.11446114443166833
-  rhythmicContrast: 0.5204634385415657
   saturation: 0.12770526797627824
-cta: {}
-layout_spectrum: 0.418918
-name: Retro Media Alliance
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.35304
+  rhythmicContrast: 0.5204634385415657
+purpose:
+  - name: null
+    item: null
+    url: null
