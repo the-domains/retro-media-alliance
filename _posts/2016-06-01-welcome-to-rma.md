@@ -1,14 +1,27 @@
 ---
-dateModified: '2016-06-01T07:34:50.166Z'
-description: 'Hello and welcome to the Retro Media Alliance. We are a group of movie buffs who do not like the same movies or tv shows, except for a select few. Which we will tell you about and will probably not stop making references to throughout our videos.'
 inFeed: true
-title: Welcome to RMA
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+description: 'Hello and welcome to the Retro Media Alliance. We are a group of movie buffs who do not like the same movies or tv shows, except for a select few. Which we will tell you about and will probably not stop making references to throughout our videos. This will allow us to give you a more varied and balanced view of multiple movie and tv genres.'
+datePublished: '2016-06-01T08:04:14.875Z'
+dateModified: '2016-06-01T08:02:59.302Z'
+title: RMA - Retro Media Alliance
 author: []
-starred: false
-datePublished: '2016-06-01T07:35:00.293Z'
 sourcePath: _posts/2016-06-01-welcome-to-rma.md
+authors: []
+publisher: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![Hello and welcome to the Retro Media Alliance. We are a group of movie buffs who do not like the same movies or tv shows, except for a select few. Which we will tell you about and will probably not stop making references to throughout our videos.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1affd58f-b610-432f-b518-7f05160e9391.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4adce247-b948-47d8-9f69-ed8eb340b02a.jpg)
+
+# RMA - Retro Media Alliance
+
+Hello and welcome to the Retro Media Alliance. We are a group of movie buffs who do not like the same movies or tv shows, except for a select few. Which we will tell you about and will probably not stop making references to throughout our videos. This will allow us to give you a more varied and balanced view of multiple movie and tv genres.
+
+We will be posting our videos on YouTube and you can continue the conversation on Twitter or Facebook links will be provided on this website and in the descriptions of our videos.
