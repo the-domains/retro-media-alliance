@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#010101'
+    - '#B8B8B8'
+    - '#DBDBDB'
+    - '#707070'
+    - '#202020'
+  brandStrength: 0.2197409665321104
+  lightness: 0.11446114443166833
+  rhythmicContrast: 0.5204634385415657
+  saturation: 0.12770526797627824
+cta: {}
+layout_spectrum: 0.418918
+name: Retro Media Alliance
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.35304
